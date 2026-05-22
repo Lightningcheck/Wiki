@@ -30,7 +30,7 @@ This document will describe what is standardized based on RNG Seed.
 - Hunger effect rates from Rotten Flesh is standardized
 - Effects from Suspicious Stew are standardized
   - Also, Suspicious Stew can never give Poison
-- Endermite spawn rates from Ender Pearl throw is standardized per dimension
+- Endermite spawn rates from Ender Pearl throws are standardized per dimension
 - Wool rates from shearing sheep are standardized
 
 ## Ender Dragon
@@ -54,15 +54,15 @@ The mod tries to attempt up to 4 spots in the spawner. These 4 spots are the sam
 - Magma Cube spawning positions and sizes are standardized
 
 ## Mob Behavior
-- Monsters do not spawn in Bastion Remnants except built-in entities
-- Monsters do not spawn in Desert Temples
-- Zombified Piglins avoid pathfinding into Bastion Remnants
-- Ghasts do not spawn within 5 chunks of the player
+- Villager trade offers are standardized
 - Drowned never spawn with a held Trident
 - Elder Guardians never afflict the player with Mining Fatigue
-- Phantoms spawn and cycle is standardized
+- Monsters and Bats do not spawn in Desert Temples
+- Monsters do not spawn in Bastion Remnants except built-in entities
+- Zombified Piglins avoid pathfinding into Bastion Remnants
+- Ghasts do not spawn within 5 chunks of the player
 - Rain/storm cycle is standardized
-- Villager trade offers are standardized
+- Phantoms spawn and cycle is standardized
 
 ## Player & Portal Behaviors
 - Player spawn coordinates are standardized
