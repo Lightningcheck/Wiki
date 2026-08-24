@@ -17,6 +17,7 @@ Everyone can make a Private Room in the most basic form, but certain features re
 - Same as No Pickaxe
 - Solo Private Room
 - Choose Seedtype
+- Choose Bastiontype
 
 ### Iron Pickaxe
 - Same as Stone Pickaxe
