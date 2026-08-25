@@ -19,5 +19,6 @@ Matchmaking Settings can be found by going to Ranked > Settings > Matchmaking, w
 For an enjoyable play experience for all players MCSR Ranked tries to disincentivize forfeiting.
 - The forfeit button is available after 4m 30s, this is lowered to 3m 30s for the Diamond and Netherite Ranks.
 - After forfeiting 3 times in a row you will receive a 3 minute queue ban. This queue ban will gradually increase with each consecutive forfeit.
-- While the main matchmaking factor is Elo, there is a secondary matchmaking factor called forfeit based matchmaking*. This means that players with a similar forfeit rate will be more likely to queue one another. The longer the queue time goes on the less important forfeit rate becomes, until after 8 minutes the matchmaking is purely based on Elo. <br><br>
+- While the main matchmaking factor is Elo, there is a secondary matchmaking factor called forfeit based matchmaking*. This means that players with a similar forfeit rate will be more likely to queue one another. The longer the queue time goes on the less important forfeit rate becomes, until after 8 minutes the matchmaking is purely based on Elo.
+
 *Forfeit based matchmaking does not apply to players that have 1500+ Elo. 
