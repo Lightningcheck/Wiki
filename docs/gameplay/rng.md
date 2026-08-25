@@ -67,7 +67,7 @@ Every portal is treated like you are building on Y64 in the overworld, however t
 - First blind portal* will always spawn on the surface if built at Nether Y level 48 or above, so you rarely get caved.
 - The amount of already filled in End Portal Frames per End Portal is the same between all Strongholds.
 
-*: First portal from Nether for travel to Stronghold.
+*First portal from Nether for travel to Stronghold.
 
 ## Ender Dragon
 - The sequence of target block height offsets is standardized within each phase
