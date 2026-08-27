@@ -28,3 +28,9 @@ Everyone can make a Private Room in the most basic form, but certain features re
 ### Diamond Pickaxe
 - Same as Iron Pickaxe
 - Request to Join Private Room option
+
+## RNG Standardization
+The standardizations listed below are relevant for some of the categories that can be chosen in a private room, see [here](./rng) for the full list of standardizations.
+- Rain/thunderstorm cycle is standardized
+  - Also thunderstorms are more frequent
+- Phantoms spawn and cycle are standardized
