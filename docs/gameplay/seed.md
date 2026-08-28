@@ -14,7 +14,7 @@ For more efficient filtering and usability, the overworld and nether are filtere
 | 600 ~ 1199 |   30%   |    25%    |      25%      |      20%      |       0%        |
 |   1200+    |   20%   |    20%    |      20%      |      20%      |       20%       |
 
-*: Based on the average Elo Rate of all players in the match.
+*Based on the lowest Elo Rate of all players in the match.
 
 In Private Room, each seeds have 20% distribution like 1200+ range.
 
@@ -30,7 +30,7 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 - Iron Golem always drops 4 Iron (never 3 or 5)
 - At least 7 Iron (or 4 Iron + 3 Diamonds) (including golem) with food in chests or haybales
 
-*: The guaranteed Blacksmith is usually a weaponsmith, but can instead be a toolsmith in desert and taiga villages.
+*The guaranteed Blacksmith is usually a weaponsmith, but can instead be a toolsmith in desert and taiga villages.
 
 ### Shipwreck
 - Spawns within 4 chunks
@@ -77,7 +77,7 @@ In Private Room, each seeds have 20% distribution like 1200+ range.
 - Stables Bastion Remnant has at least 1 good gap
 - Open terrain check from approximate nether entry to the Bastion Remnant
 
-*: This means that the X coodinate is 0 and Z coodinate is 0. (0, 0)
+*This means that the X coodinate is 0 and Z coodinate is 0. (0, 0)
 
 ### Fortress
 - Fortress origin is within 16 chunks of the intended Bastion Remnant
