@@ -20,7 +20,6 @@ This document will describe what is standardized based on RNG Seed.
 - Ender Pearls from Endermen
 #### Some item drops are forced:
 - Iron Golems always drop 4 Iron (never 3 or 5)
-- After 20 Blaze kills, Blazes will always drop a Blaze Rod
 
 ## Block Drop Loot
 ### All item drop rates from blocks are standardized, some important examples are:
