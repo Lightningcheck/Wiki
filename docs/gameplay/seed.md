@@ -9,12 +9,12 @@ For more efficient filtering and usability, the overworld and nether are filtere
 
 ## Seed Type Distribution
 |    Elo*    | Village** | Shipwreck | Desert Temple | Ruined Portal | Buried Treasure |
-| :--------: |  :-----:  | :-------: | :-----------: | :-----------: | :-------------: |
+| :--------: | :-------: | :-------: | :-----------: | :-----------: | :-------------: |
 |  0 ~ 599   |    55%    |    15%    |      30%      |      0%       |       0%        |
 | 600 ~ 1199 |    30%    |    25%    |      25%      |      20%      |       0%        |
 |   1200+    |    20%    |    20%    |      20%      |      20%      |       20%       |
 
-*Based on the lowest Elo of all players in the match.
+*Based on the lowest Elo of all players in the match. <br>
 **Snowy and Taiga Villages only appear at 900+ Elo.
 
 In Private Rooms, the seed type distribution is the same as in the 1200+ Elo range.
