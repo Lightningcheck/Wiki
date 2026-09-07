@@ -25,6 +25,7 @@ In Private Rooms, the seed type distribution is the same as in the 1200+ Elo ran
 - Spawns within 7 chunks
 - Contains a guaranteed Blacksmith*
 - At least 7 Iron (or 4 Iron + 3 Diamonds) (including golem) with food in chests or haybales
+  - With 10+ Obsidian the only guaranteed Iron is from the golem
 - Iron Golem always drops 4 Iron (never 3 or 5)
 - A River Biome is guaranteed within 6 chunks of the center of the village
 - 3 lava pools are guaranteed near the Village OR the Blacksmith contains 8+ Obsidian for an enter with Blacksmith lava
