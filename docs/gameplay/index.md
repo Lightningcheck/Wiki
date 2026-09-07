@@ -8,6 +8,7 @@ This section covers how Ranked matches work, as wells as information relating to
   - [RNG Standardization](./rng)
 - [Elo & Ranks](./elo_and_ranks)
 - [Match-Making](./matchmaking)
+- [Rules](./rules)
 - [Private Rooms](./private_rooms)
 - [Weekly Race](./weekly_race)
 - [Achievements](./achievements)
