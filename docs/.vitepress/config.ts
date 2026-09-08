@@ -145,11 +145,11 @@ export default defineConfig({
             },
             { text: 'Elo & Ranks', link: '/elo_and_ranks' },
             { text: 'Match-Making', link: '/matchmaking' },
-            { text: 'Rules', link: '/rules'},
             { text: 'Private Rooms', link: '/private_rooms' },
             { text: 'Weekly Race', link: '/weekly_race' },
             { text: 'Achievements', link: '/achievements' },
             { text: 'Replay System', link: '/replay_system' },
+            { text: 'Rules', link: '/rules'},
             { text: 'Ranked Spectator Accounts', link: '/ranked_spectator_accounts' },
           ]
         }
