@@ -22,6 +22,7 @@ Besides the Ranked Guidelines, MCSR Ranked follows the SRC rules for Minecraft A
 ## Macro Rules
 - Macros may resize the game window to any resolution as long as the game window stays within monitor bounds.
 - Macros may resize the game to 1 resolution outside monitor bounds (max. 16384 pixels in width or height).
+- Toggle sprint macros are allowed.
 - All other macros are not allowed.
 
 ## External Resource Rules
@@ -39,20 +40,27 @@ Besides the Ranked Guidelines, MCSR Ranked follows the SRC rules for Minecraft A
 ### Allowed Glitches
 - Pearl clipping
 - Seeing under water or lava using third person
-- Oneshot
-- Synced lava blip
+- Oneshot<!-- - Synced lava blip-->
 - Sticky boat clutch
 - Boat velocity reset
 - Boat breaking
+- Block effects being ignored on block edges
+- Statistics menu advancing
+- Soul skating
+- Placing doors inside the player
+- Continue sprinting while crawling or sneaking<!-- -Sprint desync --><!-- -Receiving looting benefits from bow/tnt-->
+- Entering and breaking a boat simultaneously
+- Entering and breaking a nether portal simultaneously
+- Fast Looting
+- Altered Fast looting<!-- -Force fast dragon fly by hiding--><!-- - Projectile dodging by projectile spawning inside player hitbox-->
+- Planar fog abuse
+- Ghost bucket
 
 ### Disallowed Glitches
 - X-Ray
-- [Shift clutch]()
-- Desynced lava blip?
-- [Ghost scaffolding]()
-- Ghost blocks
-- [Dragon skip]()
-- Attribute swapping
-- Boat desync
+- Shift clutch<!-- - Desynced lava blip-->
+- Ghost scaffolding
+- Ghost blocks<!-- - Dragon skip-->
+- Attribute swapping<!-- - Boat desync-->
 
-Reminder: these are not the full rules, but they should suffice for the average player
+Reminder: these are not the full rules, but they should suffice for the average player.
