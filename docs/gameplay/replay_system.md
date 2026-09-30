@@ -20,7 +20,9 @@ You can move around freely in replay mode unless you turn on Live Replay Setting
 
 Many of these options are available in the spectator bar which is accessed by pressing any hotbar hotkey in game. Additional options can be found by pressing your 8 slot hotkey twice, which brings you to the next page, where you can increase or decrease the game speed and also toggle the visibility of player names.
 
-## Downloading replays
-- Replays are deleted after 3 days unless they are downloaded.
-- You can download a replay by going to: Profile > Matches > Click on the match > Download Replay, where you will then be asked to name it.
-- These replays can then be found in the main Ranked menu by clicking on My Replays and will not be deleted.
+## Downloading Replays
+- Replays are deleted after 7 days unless they are downloaded.
+- You can download a Replay by going to: Profile > Matches > Click on the match > Download Replay, where you will then be asked to name it.
+- These Replays can then be found in the main Ranked menu by clicking on My Replays and will not be deleted.
+- The Replays of the top 50 fastest runs of each season will not be deleted.
+- You can only watch or download 5 Replays every minute.
